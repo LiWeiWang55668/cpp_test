@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace;
+using namespace std;
 
 int main() {
     std::cout << "Hello! AICS!" << std::endl;

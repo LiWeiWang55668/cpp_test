@@ -1,6 +1,5 @@
 pool:
-  name: stupid-agent
-  demands: agent.name -equals $(AGENT_NAME)
+  vmImage: 'ubuntu-latest'
 
 steps:
 - script: |
